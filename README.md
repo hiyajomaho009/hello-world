@@ -1,2 +1,3 @@
 # hello-world
-begin
+
+I am mad scientist!
