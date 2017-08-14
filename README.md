@@ -1,3 +1,3 @@
 # hello-world
 
-I am mad scientist!
+I am a mad scientist!
